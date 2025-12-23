@@ -20,6 +20,7 @@ You can find a more complete list of ***[Project Management Software and Tools](
 
 - [Asana](https://asana.com) - [Review](https://productivity.directory/asana) - Elevate your team's collaboration with a comprehensive platform for work organization and efficiency.
 - [Monday.com](https://monday.com) - [Review](https://productivity.directory/mondaydotcom) - Unify your teamwork and project management needs with a comprehensive Work OS.
+- [Freedcamp](https://freedcamp.com) The first and only free project management system, offering simplicity and advanced features.
 - [Jira](https://www.atlassian.com/software/jira) - [Review](https://productivity.directory/jira) - Plan, track, and manage your agile and software development projects with Jira.
 - [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) - [Review](https://productivity.directory/microsoft-project) - Empower teams to manage projects effectively and achieve more with Microsoft Project.
 - [ClickUp](https://clickup.com) - [Review](https://productivity.directory/) - Maximize productivity with an all-in-one, customizable platform.
