@@ -28,6 +28,7 @@ You can find a more complete list of ***[Project Management Software and Tools](
 - [Zoho Projects](https://www.zoho.com/projects/) - [Review](https://productivity.directory/zoho-projects) - Transform your project management experience with comprehensive features.
 - [Basecamp](https://basecamp.com) - [Review](https://productivity.directory/basecamp) - Simplify your work and unify your team with Basecamp.
 - [Trello](https://trello.com) - [Review](https://productivity.directory/trello) - Visualize your project's progress and streamline team collaboration with Trello.
+- [Taskade](https://taskade.com) - [Review](https://productivity.directory/taskade) - AI-powered project management workspace with 8 views, custom AI agents, workflow automation, and real-time collaboration.
 - [ProofHub](https://www.proofhub.com) - [Review](https://productivity.directory/proofhub) - Simplify project management and enhance team collaboration.
 - [Airtable](https://airtable.com) - [Review](https://productivity.directory/airtable) - Build customizable apps for all your workflow needs with Airtable.
 - [Hive](https://hive.com) - [Review](https://productivity.directory/hive) - Streamline your team's productivity and collaboration.
