@@ -32,6 +32,7 @@ You can find a more complete list of ***[Project Management Software and Tools](
 - [Airtable](https://airtable.com) - [Review](https://productivity.directory/airtable) - Build customizable apps for all your workflow needs with Airtable.
 - [Hive](https://hive.com) - [Review](https://productivity.directory/hive) - Streamline your team's productivity and collaboration.
 - [Notion](https://www.notion.so) - [Review](https://productivity.directory/notion) - Streamline your schedule and integrate your work and life seamlessly.
+- [WBS/Gantt](https://wbsgantt.app/) - Create WBS plans and Gantt schedules in the browser without signup.
 
 
 ## Websites
