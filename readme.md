@@ -33,6 +33,7 @@ You can find a more complete list of ***[Project Management Software and Tools](
 - [Hive](https://hive.com) - [Review](https://productivity.directory/hive) - Streamline your team's productivity and collaboration.
 - [Notion](https://www.notion.so) - [Review](https://productivity.directory/notion) - Streamline your schedule and integrate your work and life seamlessly.
 
+- [Orbit by Noveum](https://orbit.noveum.ai) - Free, open-source issue, sprint and project management with collaborative docs and an OAuth MCP endpoint for AI agents.
 
 ## Websites
 - [Productivity Directory](https://productivity.directory/) - Your ultimate tool finder, providing a curated list of productivity apps and tools designed to enhance your efficiency and streamline your workflow
